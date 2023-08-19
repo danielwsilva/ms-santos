@@ -37,6 +37,8 @@ As técnologias envolvidas na construção do projeto:
 - **yup**
 - **styled-components**
 - **reanimated**
+- **eas**
+- **context**
 
 
 ## 🦸‍♂️ **Autor**
